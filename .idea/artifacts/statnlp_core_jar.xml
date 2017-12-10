@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="statnlp-core:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/statnlp_core_jar</output-path>
+    <output-path>$USER_HOME$/Desktop</output-path>
     <root id="archive" name="statnlp-core.jar">
       <element id="module-output" name="statnlp-core" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/typesafe/config/1.2.1/config-1.2.1.jar" path-in-jar="/" />
